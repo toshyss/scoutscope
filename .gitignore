@@ -1,0 +1,6 @@
+gitignore
+output_images/
+ssd_keras
+data/
+
+weights_SSD300.hdf5
